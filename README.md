@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,15,18&height=170&section=header&text=Hi!%20I'm%20SeoHyun&fontColor=black&fontSize=30&fontAlignY=30&desc=Welcome%20to%20my%20world&descAlignY=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=170&section=header&text=Hi!%20I'm%20SeoHyun&fontColor=black&fontSize=30&fontAlignY=30&desc=Welcome%20to%20my%20world&descAlignY=48)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -31,7 +31,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seobbang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,15,18&height=150&section=footer&text=bbb&fontColor=black&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=150&section=footer&text=bbb&fontColor=black&fontSize=30)
 
 
 <!--
