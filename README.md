@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,15,18&height=170&section=header&text=Hi!%20I'm%20SeoHyun&fontColor=black&fontSize=30&fontAlignY=30&desc=Welcome%20to%20my%20world&descAlignY=48)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
