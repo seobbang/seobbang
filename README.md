@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=170&section=header&text=Hi!%20I'm%20SeoHyun&fontColor=black&fontSize=30&fontAlignY=30&desc=Welcome%20to%20my%20world&descAlignY=48)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=170&section=header&text=Hi!%20I'm%20SeoHyun&fontColor=black&fontSize=30&fontAlignY=30&desc=.&descAlignY=48)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<!-- <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang"/>&nbsp
-</p>
+</p> -->
 
 
 
