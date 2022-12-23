@@ -31,7 +31,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seobbang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=150&section=footer&text=bbb&fontColor=black&fontSize=30)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=150&section=footer&text=bbb&fontColor=black&fontSize=30) -->
 
 
 <!--
