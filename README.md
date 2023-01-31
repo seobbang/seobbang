@@ -26,6 +26,11 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
+## Blog
+<p align="left">
+  <a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang"/>&nbsp
+</p>
+
 
 <!-- <h3 align="left">🌈 Follow Me 🌈</h3>
 <p align="left">
