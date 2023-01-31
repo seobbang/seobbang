@@ -3,10 +3,13 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seobbang&show_icons=true&theme=dracula"/> -->
 
  
-### Seohyun Kim
+#### Seohyun Kim
 
-## Front-end
-<h4>📚 Tech Stack</h4>
+---
+
+<h3>📚 Tech Stack</h3>
+
+**Front-end**
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
@@ -16,17 +19,17 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
-- 🌱 I’m currently learning ...
+<!-- - 🌱 I’m currently learning ... -->
 
-## Others
-<h4>📚 Tech Stack</h4>
+**Others**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
+<br/>
 
-## Blog
+<h3>🌈 Blog</h3>
 <p align="left">
   <a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang"/>&nbsp
 </p>
