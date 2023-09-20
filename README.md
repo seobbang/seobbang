@@ -1,16 +1,20 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=170&section=header&text=Hi!%20I'm%20SeoHyun&fontColor=black&fontSize=30&fontAlignY=30&desc=.&descAlignY=48) -->
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=170&section=header&text=&fontColor=black&fontSize=30&fontAlignY=30&desc=.&descAlignY=48)-->
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seobbang&show_icons=true&theme=dracula"/> -->
 
  
-#### Seohyun Kim
+### Seohyun
+> 🖤 **사용자를 생각하는** 개발자<br/>
+🖤 Ewha Womans Univ. CSE<br/>
+🖤 Front-End Developer<br/>
 
 ---
 
 <h3>📚 Tech Stack</h3>
 
-**Front-end**
+I’m currently learning ...
 
+**Front-end**
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seobbang&layout=compact"/> 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -18,6 +22,9 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/styled/component-e084c6?style=flat-square&logo=styled-components&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react-query&logoColor=white">
 </p>
 <!-- - 🌱 I’m currently learning ... -->
 
@@ -26,12 +33,24 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
 <h3>📝 Blog</h3>
 <p align="left">
   <a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang"/>&nbsp
 </p>
+
+---
+
+<h3> 👾 Activities.</h3>
+
+| Title            | Content | Period                                                                                                                   |
+| ---------------- | --------|--------------------------------------------------------------------------------------------------------------------------- |
+| `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~ing                                                                                       |
+| `palmspring` | FrontEnd - 📁[palmspring repository](https://github.com/palm-springs/PalmSpringClient) | 2023.06~ing |
+| `32nd GO SOPT` |  WEB OB 수료  | 2023.03~2023.07                                                                                        |
+| `31st IN SOPT` |  WEB YB 수료 | 2022.09~2023.02                                                                     |
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seobbang&show_icons=true&theme=swift) -->
 
@@ -40,21 +59,6 @@
 <p align="left">
   <a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang"/>&nbsp
 </p> -->
-
-
-
-
-  
-<!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seobbang&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seobbang&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=150&section=footer&text=bbb&fontColor=black&fontSize=30) -->
-
 
 <!--
 **seobbang/seobbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
