@@ -47,8 +47,8 @@ I’m currently learning ...
 
 | Title            | Content | Period                                                                                                                   |
 | ---------------- | --------|--------------------------------------------------------------------------------------------------------------------------- |
-| `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~ing                                                                                       |
-| `palmspring` | FrontEnd - 📁[palmspring repository](https://github.com/palm-springs/PalmSpringClient) | 2023.06~ing |
+| `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~2024.01                                                                                       |
+| <strong><a href="https://palms.blog">`palmspring`</a></strong> | FrontEnd Lead | 2023.06~ing |
 | `32nd GO SOPT` |  WEB OB 수료  | 2023.03~2023.07                                                                                        |
 | `31st IN SOPT` |  WEB YB 수료 | 2022.09~2023.02                                                                     |
 
