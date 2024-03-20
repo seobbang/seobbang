@@ -38,7 +38,7 @@ I’m currently learning ...
 
 <h3>📝 Blog</h3>
 <p aling="left">
- <a href="https://seohyun.palms.blog">palms 블로그</a>
+ <a href="https://seohyun.palms.blog">palmspring 블로그</a>
 </p>
 <p align="left">
   <a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang"/>&nbsp
