@@ -47,6 +47,7 @@ I’m currently learning ...
 
 | Title            | Content | Period                                                                                                                   |
 | ---------------- | --------|--------------------------------------------------------------------------------------------------------------------------- |
+| `2nd AWS Cloud Club Ewha` | - | 2024.03 ~  
 | `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~2024.01                                                                                       |
 | <strong><a href="https://palms.blog">`palmspring`</a></strong> | FrontEnd Lead | 2023.06~ing |
 | `32nd GO SOPT` |  WEB OB 수료  | 2023.03~2023.07                                                                                        |
