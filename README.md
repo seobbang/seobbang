@@ -8,6 +8,11 @@
 🖤 Front-End Developer<br/>
 
 ---
+<h3>💫 Contributions</h3>
+<ul>
+<li><a href="https://github.com/github/docs/pull/33247">github/docs PR#33247</a></li>
+<li><a href="https://github.com/yamada-ui/yamada-ui/pull/1711">yamada-ui/yamada-ui PR#1711</a></li>
+</ul>
 
 <h3>📚 Tech Stack</h3>
 
