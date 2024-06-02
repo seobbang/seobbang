@@ -14,6 +14,17 @@
 <li><a href="https://github.com/yamada-ui/yamada-ui/pull/1711">yamada-ui/yamada-ui PR#1711</a></li>
 </ul>
 
+<h3> 👾 Activities.</h3>
+
+| Title            | Content | Period                                                                                                                   |
+| ---------------- | --------|--------------------------------------------------------------------------------------------------------------------------- |
+| `2nd AWS Cloud Club Ewha` | - | 2024.03 ~  
+| `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~2024.01                                                                                       |
+| <strong><a href="https://palms.blog">`palmspring`</a></strong> | FrontEnd Lead | 2023.06~ing |
+| `32nd GO SOPT` |  WEB OB 수료  | 2023.03~2023.07                                                                                        |
+| `31st IN SOPT` |  WEB YB 수료 | 2022.09~2023.02   
+
+---
 <h3>📚 Tech Stack</h3>
 
 I’m currently learning ...
@@ -43,23 +54,11 @@ I’m currently learning ...
 
 <h3>📝 Blog</h3>
 <p aling="left">
- <a href="https://seohyun.palms.blog">palmspring 블로그</a>
+ <a href="https://seohyun.palms.blog">palms.blog</a>
 </p>
 <p align="left">
   <a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang"/>&nbsp
 </p>
-
----
-
-<h3> 👾 Activities.</h3>
-
-| Title            | Content | Period                                                                                                                   |
-| ---------------- | --------|--------------------------------------------------------------------------------------------------------------------------- |
-| `2nd AWS Cloud Club Ewha` | - | 2024.03 ~  
-| `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~2024.01                                                                                       |
-| <strong><a href="https://palms.blog">`palmspring`</a></strong> | FrontEnd Lead | 2023.06~ing |
-| `32nd GO SOPT` |  WEB OB 수료  | 2023.03~2023.07                                                                                        |
-| `31st IN SOPT` |  WEB YB 수료 | 2022.09~2023.02                                                                     |
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seobbang&show_icons=true&theme=swift) -->
 
