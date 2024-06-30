@@ -3,7 +3,7 @@
 
  
 ### Seohyun
-> 🖤 **사용자를 생각하는** 개발자<br/>
+> 🖤 **가치 있는 경험을 제공**하는 개발자<br/>
 🖤 Ewha Womans Univ. CSE<br/>
 🖤 Front-End Developer<br/>
 
@@ -18,9 +18,10 @@
 
 | Title            | Content | Period                                                                                                                   |
 | ---------------- | --------|--------------------------------------------------------------------------------------------------------------------------- |
-| `2nd AWS Cloud Club Ewha` | - | 2024.03 ~  
+| `2nd AWS Cloud Club Ewha` | YB 수료 | 2024.03 ~  
+| `2024 FEConf Organizer` | - | 2024.02 ~  
 | `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~2024.01                                                                                       |
-| <strong><a href="https://palms.blog">`palmspring`</a></strong> | FrontEnd Lead | 2023.06~ing |
+| <strong><a href="https://palms.blog">`palms.blog`</a></strong> | FrontEnd Lead | 2023.06~ing |
 | `32nd GO SOPT` |  WEB OB 수료  | 2023.03~2023.07                                                                                        |
 | `31st IN SOPT` |  WEB YB 수료 | 2022.09~2023.02   
 
@@ -54,10 +55,10 @@ I’m currently learning ...
 
 <h3>📝 Blog</h3>
 <p aling="left">
- <a href="https://seohyun.palms.blog">palms.blog</a>
+<b>now</b> ➡ 🌴 <a href="https://seohyun.palms.blog"><strong>palms.blog</strong></a>
 </p>
 <p align="left">
-  <a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang"/>&nbsp
+<a href="https://velog.io/@seobbang" style="display: flex; align-items: center;" ><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang" />&nbsp
 </p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seobbang&show_icons=true&theme=swift) -->
