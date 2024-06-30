@@ -56,11 +56,10 @@ I’m currently learning ...
 ---
 <h3>📝 Blog</h3>
 <p aling="left">
-🌴 <a href="https://seohyun.palms.blog"><strong>palms.blog</strong></a>(now!)
+🌴 <a href="https://seohyun.palms.blog"><strong>palms.blog</strong></a> (now!)
 </p>
 <p align="left">
-<a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang" />&nbsp
-</p>
+<a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang" /></a></p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seobbang&show_icons=true&theme=swift) -->
 
