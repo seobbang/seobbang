@@ -53,12 +53,13 @@ I’m currently learning ...
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
+---
 <h3>📝 Blog</h3>
 <p aling="left">
-<b>now</b> ➡ 🌴 <a href="https://seohyun.palms.blog"><strong>palms.blog</strong></a>
+🌴 <a href="https://seohyun.palms.blog"><strong>palms.blog</strong></a>(now!)
 </p>
 <p align="left">
-<a href="https://velog.io/@seobbang" style="display: flex; align-items: center;" ><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang" />&nbsp
+<a href="https://velog.io/@seobbang"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seobbang" />&nbsp
 </p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seobbang&show_icons=true&theme=swift) -->
