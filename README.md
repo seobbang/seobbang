@@ -22,7 +22,7 @@
 | `2nd AWS Cloud Club Ewha` | YB 수료 | 2024.03 ~ 2024.08
 | `2024 FEConf Organizer` | - | 2024.02 ~  NOW
 | `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~2024.01                                                                                       |
-| <strong><a href="https://palms.blog">`palms.blog`</a></strong><br/> <strong><a href="https://official.palms.blog">`palms.blog 공식 블로그`</a></strong>| FrontEnd Lead  | 2023.06 ~ NOW |
+| <strong><a href="https://palms.blog">`palms.blog`</a></strong><br/> <strong><a href="https://official.palms.blog">`palms.blog 공식 블로그`</a></strong>| FrontEnd Lead  | 2023.06 ~ 2024.09 |
 | `32nd GO SOPT` |  WEB OB 수료  | 2023.03~2023.07                                                                                        |
 | `31st IN SOPT` |  WEB YB 수료 | 2022.09~2023.02   
 
