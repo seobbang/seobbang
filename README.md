@@ -18,7 +18,7 @@
 
 | Title            | Content | Period                                                                                                                   |
 | ---------------- | --------|--------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://uni-trip.vercel.app/">`UNITRIP`</a> (<a href="https://github.com/TEAM-UNITRIP/UNITRIP-FrontEnd">repo</a>)|FrontEnd   | 2024.06 ~|
+| <a href="https://uni-trip.vercel.app/">`UNITRIP`</a> (<a href="https://github.com/TEAM-UNITRIP/UNITRIP-FrontEnd">repo</a>)|FrontEnd   | 2024.06 ~ NOW|
 | `2nd AWS Cloud Club Ewha` | YB 수료 | 2024.03 ~ 2024.08
 | `2024 FEConf Organizer` | - | 2024.02 ~  NOW
 | `33rd DO SOPT` | 제 32대 웹 파트장  | 2023.09~2024.01                                                                                       |
