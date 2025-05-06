@@ -25,6 +25,7 @@
 
 #### 💫 Contributions</h3>
 <ul>
+<li><a href="https://github.com/reactjs/ko.react.dev/pull/1192">ko.react.dev fix typo in useTransition.md</a></li>
 <li><a href="https://github.com/toss/frontend-fundamentals/pull/26">toss/frontend-fundamentals PR#26</a></li>
 <li><a href="https://github.com/github/docs/pull/33247">github/docs PR#33247</a></li>
 <li><a href="https://github.com/yamada-ui/yamada-ui/pull/1711">yamada-ui/yamada-ui PR#1711</a></li>
