@@ -28,7 +28,7 @@
 <li><a href="https://github.com/reactjs/ko.react.dev/pull/1192">[reactjs/ko.react.dev] fix typo in useTransition.md</a></li>
 <li><a href="https://github.com/toss/frontend-fundamentals/pull/26">[toss/frontend-fundamentals] fix: wrong code example at login start page</a></li>
 <li><a href="https://github.com/github/docs/pull/33247">[github/docs] Bold interactable UI elements in forking-and-cloning-gists#cloning-gists</a></li>
-<li><a href="https://github.com/yamada-ui/yamada-ui/pull/1711">[yamada-ui/yamada-ui] Fixed the type definition of onLoad in useInfiniteScroll</a></li>
+<li><a href="https://github.com/yamada-ui/yamada-ui/pull/1711">[yamada-ui/yamada-ui] Fix the type definition of onLoad in useInfiniteScroll</a></li>
 </ul>
 
 ---
