@@ -9,7 +9,7 @@
 ---
 #### 🚀 Experiences
 
-- <strong> Toss Place, Frontend Developer Assistant (2024.12 ~ NOW)</strong>
+- <strong> Toss Place, Frontend Developer Assistant (2024.12 ~ 2025.06)</strong>
 - thetrive, Frontend Developer Intern (2024.09 ~ 2024.11)
 
 #### 👩‍💻 Projects
