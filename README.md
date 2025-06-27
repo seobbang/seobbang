@@ -17,8 +17,7 @@
 - <a href="https://github.com/TEAM-UNITRIP/UNITRIP-FrontEnd">UNITRIP</a>, Frontend Developer  (2024.06 ~ 2024.09)
 
 #### 👾 Activities
-- 2nd AWS Cloud Club Ewha YB (2024.03 ~ 2024.08)
-- 2024 FEConf Organizer (2024.02 ~  NOW)
+- FEConf Organizer (2024.02 ~  NOW)
 - 33rd SOPT, Web Part Leader (2023.09 ~ 2024.01)
 - 32nd SOPT, WEB OB (2023.03 ~ 2023.07)
 - 31st SOPT, WEB YB (2022.09 ~ 2023.02)
